@@ -1,5 +1,5 @@
 
-# 🏢 VisitorTrack — Registro de Visitantes en Flutter 🚪📋
+# 🏢 App Visitas — Registro de Visitantes en Flutter 🚪📋
 
 ¡Bienvenido a **VisitorTrack**!  
 Una app hecha en Flutter que permite **registrar y gestionar visitantes de una oficina** en tiempo real usando **Firebase**.
@@ -43,7 +43,7 @@ Una app hecha en Flutter que permite **registrar y gestionar visitantes de una o
 1. Clona este repositorio:
 
 bash
-git clone https://github.com/tuusuario/visitortrack.git
+git clone https://github.com/marcotapia07/App-Visitantes/edit/main/README.md
 cd visitortrack
 `
 
