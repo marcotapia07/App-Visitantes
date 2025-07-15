@@ -1,6 +1,4 @@
----
 
-`markdown
 # 🏢 VisitorTrack — Registro de Visitantes en Flutter 🚪📋
 
 ¡Bienvenido a **VisitorTrack**!  
